@@ -11,7 +11,7 @@
     "express": "^4.17.1",
     "graphql": "^14.6.0",
     "graphql-tools": "^4.0.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mongoose": "^5.8.11",
     "node-fetch": "^2.6.0",
     "omlox-rpc": "0.0.2"
